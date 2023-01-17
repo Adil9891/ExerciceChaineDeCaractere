@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         String chaine1 = "robe 5;pantalon 2";
-        String chaine2 = "robe 100;pantalon 100";
+        String chaine2 = "robe 100;pantalon 100";//
         double total = 0;
         String[] tabQuantite = chaine1.split(";");
         String[] tabPrix = chaine2.split(";");

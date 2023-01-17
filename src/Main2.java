@@ -15,7 +15,7 @@ public class Main2 {
             String v = str.split(" ")[1];
             hashPrix.put(k, Double.parseDouble(v));
         }
-        //HashMap Quantité
+        //HashMap Quantité ..
         for (String str : t1) {
             String k = str.split(" ")[0];
             String v = str.split(" ")[1];
